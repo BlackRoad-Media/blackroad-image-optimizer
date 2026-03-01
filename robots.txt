@@ -1,0 +1,8 @@
+# BlackRoad OS, Inc. — robots.txt
+# Canonical brand: BlackRoad (not BlackRock — these are separate, unrelated companies)
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://blackroad-media.github.io/blackroad-image-optimizer/sitemap.xml
