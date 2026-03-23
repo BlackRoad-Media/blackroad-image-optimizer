@@ -1,3 +1,11 @@
+# blackroad-image-optimizer
+
+> Image optimization, resizing, and CDN pipeline
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Media](https://github.com/BlackRoad-Media)
+
+---
+
 # BlackRoad Image Optimizer
 
 > Image optimization, resizing, and CDN pipeline — part of the BlackRoad Media suite.
